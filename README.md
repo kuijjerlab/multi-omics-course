@@ -1,4 +1,4 @@
-# NCMM multi-omics course - Gene Regulatory Network Workshop
+# NCMBM multi-omics course - Gene Regulatory Network Workshop
 Repository for the gene regulatory network analysis workshop taught as part of the NCMBM multi-omics course. This repository contains all the information and material needed for this workshop.
 
 * **Jupyter_notebook_guide** contains a brief introduction to using Jupyter notebooks in Jupyter Lab.  
